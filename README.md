@@ -23,5 +23,10 @@ Focused on building secure, scalable and auditable cloud infrastructure.
 
 ---
 
+### Certifications
+- [AWS Certified Cloud Practitioner](https://www.credly.com/users/nicosec/)
+
+---
+
 ### Goals
 Build secure, scalable and auditable cloud environments, leveraging automation and AI where it adds real value.
